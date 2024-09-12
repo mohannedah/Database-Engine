@@ -1,0 +1,17 @@
+.vs/
+*.VC.opendb
+
+# Ignore build directories
+build/
+Debug/
+Release/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore CMake build files
+CMakeFiles/
+CMakeCache.txt
+
+# Ignore log files
+*.log
